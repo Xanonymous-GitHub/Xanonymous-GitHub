@@ -32,6 +32,6 @@
 📈 My GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Xanonymous-GitHub&show_icons=true&theme=gotham" alt="Xanonymous-GitHub"/>
-  <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Xanonymous-GitHub&layout=compact&hide_border=true&langs_count=100&theme=gotham">
+  <img src="https://github-readme-stats.vercel.app/api?username=Xanonymous-GitHub&show_icons=true" alt="Xanonymous-GitHub"/>
+  <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Xanonymous-GitHub&layout=compact&hide_border=true&langs_count=100">
 </p>
