@@ -14,7 +14,6 @@
 ![C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=c)
 ![Java](https://img.shields.io/badge/-java-black?style=flat-square&logo=java&logoColor=red)
 ![Rust](https://img.shields.io/badge/-rust-black?style=flat-square&logo=rust&logoColor=brown)
-![C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=c)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![Redis](https://img.shields.io/badge/-Redis-black?style=flat-square&logo=Redis)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql&logoColor=blue)
