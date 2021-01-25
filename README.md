@@ -5,7 +5,7 @@
 
 <p align="center"> <img src="https://visitor-badge.laobi.icu/badge?page_id=Xanonymous-GitHub" alt="xanonymous-github" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=xanonymous-github" alt="xanonymous-github" /></a> </p>
+<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=xanonymous-github&column=4&margin-w=15&margin-h=15&no-frame=true" alt="xanonymous-github" /></p>
 
 - 🌱 I’m currently learning **everythings.**
 
