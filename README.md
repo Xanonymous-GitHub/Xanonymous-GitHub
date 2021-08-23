@@ -13,12 +13,7 @@
 
 <a href="https://www.linkedin.com/in/xanonymous">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 <a href="mailto:trusaidlin@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
-<a href="https://t.me/XanonymousTG">![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)</a>
-<a href="https://instagram.com/xanonymous_ig">![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)</a>
-<a href="https://m.me/XanonymousMsg">![Messenger](https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white)</a>
 <a href="https://youtube.com/anonymousX_TM">![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)</a>
-<a href="https://facebook.com/XanonymousMsg">![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)</a>
-<a href="https://line.me/ti/p/_az_a71N6k#~">![Line](https://img.shields.io/badge/Line-22ba4f?style=for-the-badge&logo=line&logoColor=white)</a>
 <a href="https://twitter.com/Xanonymous_Tw">![Twitter](https://img.shields.io/badge/Twitter-1da1f2?style=for-the-badge&logo=twitter&logoColor=white)</a>
 
 <h3 align="left"> ⚡ Languages and Tools:</h3>
